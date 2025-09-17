@@ -28,7 +28,7 @@
 - 💡 Developer in **Python, Bash, and Java**  
 - 🌍 Exploring **Bug Hunting & PenTesting**  
 - 🎯 Goal → **Advanced Security Researcher & Tool Builder**  
-- ⚡ Fun Fact → I can consciously control **sweating** (biofeedback-like 😎)  
+
 
 ---
 
