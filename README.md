@@ -56,4 +56,7 @@
 
 ✨ *"Keep learning, keep hacking, and keep building."* 🚀🔥
 
-          <p>⚚Ⓐ⚚</p>
+
+<p align="center">
+  ⚚Ⓐ⚚
+</p>
