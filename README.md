@@ -54,9 +54,9 @@
 
 ---
 
-✨ *"Keep learning, keep hacking, and keep building."* 🚀🔥
 
 
-  <p class="quote">“I don’t follow the universe — I reprogram it.”</p>
-  <p>© 2025 Anish Kushwaha. All rights reserved.</p>
-  <p>⚚Ⓐ⚚</p>
+  <p align="center" class="quote">“I don’t follow the universe — I reprogram it.” </p>
+ <p align="center" class="copyright">© 2025 Anish Kushwaha. All rights reserved. </p>
+<p align="center" class="symbol">⚚Ⓐ⚚ </p
+
