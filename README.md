@@ -259,6 +259,7 @@ My journey started with curiosity about **how systems work** and evolved into a 
   - CSRF Token Validation
   - SSL/TLS Certificate Checking
   - Automated Report Generation
+- **Live** : [Scanner](Anish-kushwaha.github.io/Scanner)
 - **GitHub**: [web-security-scanner](https://github.com/Anish-Kushwaha/Scanner)
 - **Impact**: Used by 50+ security professionals
 - **Performance**: Scans 1000+ URLs in <5 minutes
@@ -286,56 +287,17 @@ My journey started with curiosity about **how systems work** and evolved into a 
   - Protocol Analysis
   - Pmodoro Timer
   - Global Influenced Study Rooms 
-  - Custom Progress Tracking 
-- **GitHub**: [network-analyzer](https://github.com/Anish-Kushwaha/FocusRoom)
+  - Custom Progress Tracking
+- **Live** :  [FocusRoom](Anish-kushwaha.github.io/FocusRoom)
+- **GitHub**: [FocusRoom Open-Source Project ](https://github.com/Anish-Kushwaha/FocusRoom)
 - **Metrics**: Monitors 99.9% uptime
 
----
-
-### 🥈 Tier 2: Full-Stack Web Applications
-
-#### 🌐 **Secure Note-Taking App**
+#### 🌐 **JARVIS**
 - **Stack**: React, Node.js, MongoDB, JWT Auth
 - **Security Features**: End-to-End Encryption, HTTPS Only
-- **Live**: https://Anish-kushwaha.b12sites.com
-- **GitHub**: [secure-notes-app](https://github.com/Anish-Kushwaha/JARVIS)
-- **Users**: 500+ active users
-
-#### 📊 **Security Metrics Dashboard**
-- **Stack**: Vue.js, Express, PostgreSQL, Chart.js
-- **Purpose**: Real-time security monitoring & reporting
-- **Features**: Custom Analytics, Data Export, Multi-user Support
-- **GitHub**: [security-dashboard](https://github.com/Anish-Kushwaha/)
-
-#### 💻 **CTF Platform**
-- **Stack**: Django, React, PostgreSQL
-- **Purpose**: Host Capture The Flag competitions
-- **Features**: Challenge Creation, Leaderboard, Hint System
-- **Events Hosted**: 5+ competitions, 200+ participants
-
----
-
-### 🥉 Tier 3: Educational & Research
-
-#### 📚 **CTF Solutions Repository**
-- **Content**: 100+ detailed write-ups
-- **Categories**: Web, Crypto, Forensics, Reverse Engineering
-- **GitHub**: [ctf-writeups](https://github.com/Anish-Kushwaha/)
-- **Stars**: ⭐⭐⭐ 250+ stars
-- **Quality**: Step-by-step solutions with explanations
-- **Access**: https://Anish-Kushwaha.github.io/ctf-guides
-
-#### 🔬 **Security Research Papers**
-- **Topics**: Zero-day Exploits, Vulnerability Analysis
-- **Format**: Detailed technical analysis with POC
-- **GitHub**: [research-papers](https://github.com/Anish-Kushwaha/Scanner-v3.2)
-- **Impact**: Cited in industry publications
-
-#### 🎓 **Learning Resources**
-- **Guides**: 20+ cybersecurity tutorials
-- **Code Examples**: 100+ working code snippets
-- **Video Tutorials**: 15+ detailed explanation videos
-- **Access**: https://Anish-Kushwaha.github.io/tutorials
+- **Live**:  [JARVIS](Anish-kushwaha.github.io/JARVIS)
+- **GitHub**: [Open-Source AI-ASSISTENT](https://github.com/Anish-Kushwaha/JARVIS)
+- **Users**: 500+ active users.
 
 ---
 
@@ -393,8 +355,8 @@ My journey started with curiosity about **how systems work** and evolved into a 
 
 ### Project Health Dashboard
 ```
-Security Tools       ████████████████████ 100% Active & Maintained
-Web Applications    ███████████████████░  95% Production Ready
+Security Tools      ████████████████████ 100% Active & Maintained
+Web Applications    ██████████████████░  95% Production Ready
 Educational Content ████████████████░░░░  85% Updated Quarterly
 Research Papers     ███████████░░░░░░░░░  55% Publishing Pipeline
 CTF Writeups        ███████████████████░  90% Latest Challenges
