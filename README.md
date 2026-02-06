@@ -414,7 +414,7 @@ CTF Writeups        ███████████████████░
     <img src="https://img.shields.io/badge/🌍%20Website-Anish%20Kushwaha-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" />
   </a>
   <a href="mailto:anish-kushwaha@zohomail.in" target="blank">
-    <img src="https://img.shields.io/badge/Email-anish.kushwaha%40email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-anish-kushwaha%40zohomain.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
