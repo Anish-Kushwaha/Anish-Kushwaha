@@ -420,8 +420,8 @@ CTF Writeups        ███████████████████░
 
 ### 🔐 Security & Bug Bounty Platforms
 <div align="center">
-  <a href="https://bugcrowd.com/Anish_Kushwaha" target="blank">
-    <img src="https://img.shields.io/badge/BugCrowd-Anish__Kushwaha-FF6B35?style=for-the-badge" alt="BugCrowd" />
+  <a href="https://replit.com/@Anish-Kushwaha" target="blank">
+    <img src="https://img.shields.io/badge/Replit-Anish-Kushwaha?style=for-the-badge" alt="BugCrowd" />
   </a>
   <a href="https://hackerone.com/anish_kushwaha" target="blank">
     <img src="https://img.shields.io/badge/HackerOne-anish__kushwaha-054A8D?style=for-the-badge" alt="HackerOne" />
@@ -436,8 +436,8 @@ CTF Writeups        ███████████████████░
   <a href="https://linkedin.com/in/anish-kushwaha-43a915383" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn%20DM-Message%20Me-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn DM" />
   </a>
-  <a href="https://t.me/anish_kushwaha" target="blank">
-    <img src="https://img.shields.io/badge/Telegram-@anish__kushwaha-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <a href="https://t.me/anish_kushwaha_ji" target="blank">
+    <img src="https://img.shields.io/badge/Telegram-@anish_Kushwaha_ji?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://twitter.com/Anish_Kushwaha_" target="blank">
     <img src="https://img.shields.io/badge/Twitter%20DM-@Anish__Kushwaha__-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter DM" />
