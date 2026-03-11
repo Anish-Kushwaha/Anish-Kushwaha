@@ -246,7 +246,7 @@ My journey started with curiosity about **how systems work** and evolved into a 
 
 ## 📁 Featured Projects & Real Work
 
-> 🔗 **View full portfolio:** https://Anish-Kushwaha.github.io | https://Anish-kushwaha.b12sites.com
+> 🔗 **View full portfolio:** https://Anish-kushwaha.online
 
 ### 🥇 Tier 1: Production Security Tools
 
