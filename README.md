@@ -1,13 +1,12 @@
 <!-- ╔══════════════════════════════════════════════════���═════════════════════════════╗ --> <!--- ║
 <!-- ╔══════════════════════════════════════════════════���═════════════════════════════╗ -->
-<!--- ║                    ANISH KUSHWAHA - CYBERSECURITY & DEVELOPMENT               ║ -->
-<!-- ║                         Building Security & Innovation                         ║ -->
+<!--- ║                    ANISH KUSHWAHA- 𝙁𝙤𝙪𝙣𝙙𝙚𝙧 & 𝘾𝙀𝙊 of 𝘈𝘕𝘐𝘚𝘏 𝘌𝘕𝘛𝘌𝘙𝘗𝘙𝘐𝘚𝘌𝘚, CYBERSECURITY & DEVELOPMENT               ║ -->
+<!-- ║                         Building Security & Innovation                      ║ -->
 <!-- ╚════════════════════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=3000&pause=2000&color=00FF41&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Anish+Kushwaha;+%7C+**𝙁𝙤𝙪𝙣𝙙𝙚𝙧**+&+**𝘾𝙀𝙊**+of+𝘈𝘕𝘐𝘚𝘏+𝘌𝘕𝘛𝘌𝘙𝘗𝘙𝘐𝘚𝘌𝘚; +Penetration+Tester+%7C+Full+Stack+Developer;🔐+Security+Innovator;🚀+Code+Craftsman+%7C+Bug+Bounty+Hunter;🎯+Building+Secure+Tomorrow" alt="Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=3000&pause=2000&color=00FF41&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Anish+Kushwaha;Founder+%26+CEO+of+ANISH+ENTERPRISES;Penetration+Tester+%7C+Full+Stack+Developer;🔐+Security+Innovator;🚀+Code+Craftsman+%7C+Bug+Bounty+Hunter;🎯+Building+Secure+Tomorrow" alt="Header" />
 </div>
-
 ---
 
 <!-- PERSONALITY SECTION -->
