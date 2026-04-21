@@ -99,7 +99,7 @@ My approach was no longer just development — it became:
 
 With growing experience and a clear vision, I founded:
 
-# ⚡ ANISH ENTERPRISES
+# ⚡ 𝐀𝐍𝐈𝐒𝐇 𝐄𝐍𝐓𝐄𝐑𝐏𝐑𝐈𝐒𝐄𝐒
 
 A technology-driven initiative focused on:
 
@@ -118,7 +118,7 @@ Unlike traditional service-based models, ANISH ENTERPRISES was built on:
 
 ## 🌐 Building an Ecosystem
 
-Under ANISH ENTERPRISES, I developed multiple platforms:
+Under [𝐀𝐍𝐈𝐒𝐇 𝐄𝐍𝐓𝐄𝐑𝐏𝐑𝐈𝐒𝐄𝐒](AnishKushwaha.co.in/ventures), I developed multiple platforms:
 
 - OldGold → Marketplace system  
 - ApnaAutoHub → Automobile ecosystem  
@@ -150,7 +150,7 @@ It is to:
 
 Today, I stand as:
 
-**Founder & CEO of ANISH ENTERPRISES**
+**Founder & CEO of [𝐀𝐍𝐈𝐒𝐇 𝐄𝐍𝐓𝐄𝐑𝐏𝐑𝐈𝐒𝐄𝐒](AnishKushwaha.co.in)**
 
 Leading a growing ecosystem of:
 - Technology platforms  
