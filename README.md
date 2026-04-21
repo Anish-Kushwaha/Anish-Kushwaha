@@ -26,7 +26,7 @@ As a student, I wasn’t just interested in using technology — I wanted to und
 
 ## 🔍 Exploration Phase — Learning by Breaking
 
-I began diving deep into:
+[I began diving deep into](Anish-Kushwaha.online):
 
 - Cybersecurity fundamentals  
 - Networking and system behavior  
@@ -120,11 +120,11 @@ Unlike traditional service-based models, ANISH ENTERPRISES was built on:
 
 Under [𝐀𝐍𝐈𝐒𝐇 𝐄𝐍𝐓𝐄𝐑𝐏𝐑𝐈𝐒𝐄𝐒](AnishKushwaha.co.in/ventures), I developed multiple platforms:
 
-- OldGold → Marketplace system  
-- ApnaAutoHub → Automobile ecosystem  
-- FocusRoom → Productivity & deep work platform  
-- Noesis → Personal knowledge system  
-- Scanner → Advanced security tooling  
+- [OldGold](oldgold.lovable.app) → Marketplace system  
+- [ApnaAutoHub](apnaautohub.lovable.app) → Automobile ecosystem  
+- [FocusRoom](Anish-kushwaha.github.io/FocusRoom) → Productivity & deep work platform  
+- [Noesis](Anish-kushwaha.github.io/Noesis) → Personal knowledge system  
+- [Vulnerability Scanner](Anish-kushwaha.github.io/Scanner) → Advanced security tooling  
 
 Each platform represents:
 
@@ -150,7 +150,7 @@ It is to:
 
 Today, I stand as:
 
-**Founder & CEO of [𝐀𝐍𝐈𝐒𝐇 𝐄𝐍𝐓𝐄𝐑𝐏𝐑𝐈𝐒𝐄𝐒](AnishKushwaha.co.in)**
+**[Founder & CEO](AnishKushwaha.co.in/contact) of [𝐀𝐍𝐈𝐒𝐇 𝐄𝐍𝐓𝐄𝐑𝐏𝐑𝐈𝐒𝐄𝐒](AnishKushwaha.co.in)**
 
 Leading a growing ecosystem of:
 - Technology platforms  
@@ -187,7 +187,7 @@ And I’m just getting started.
 
 ---
 
-## 🎖️ Quick Stats & Achievements
+## 🎖️ Quick Stats & [Achievements](Anish-kushwaha.online/achievements)
 
 <div align="center">
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Anish-Kushwaha&color=00FF41&style=for-the-badge" />
