@@ -124,7 +124,7 @@ Under [𝐀𝐍𝐈𝐒𝐇 𝐄𝐍𝐓𝐄𝐑𝐏𝐑𝐈𝐒𝐄𝐒](AnishK
 - [ApnaAutoHub](apnaautohub.lovable.app) → Automobile ecosystem  
 - [FocusRoom](Anish-kushwaha.github.io/FocusRoom) → Productivity & deep work platform  
 - [Noesis](Anish-kushwaha.github.io/Noesis) → Personal knowledge system  
-- [Vulnerability Scanner](Anish-kushwaha.github.io/Scanner) → Advanced security tooling  
+- [Vulnerability Scanner](WV-Scan.Lovable.app) → Advanced security tooling  
 
 Each platform represents:
 
@@ -531,8 +531,8 @@ CTF Writeups        ███████████████████░
 
 ### 📖 Content & Community Platforms
 <div align="center">
-  <a href="https://youtube.com/@cosmologist_anish" target="blank">
-    <img src="https://img.shields.io/badge/YouTube-@cosmologist__anish-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  <a href="https://youtube.com/@Anishkushwaha_dev" target="blank">
+    <img src="https://img.shields.io/badge/YouTube-@Anishkushwaha_dev-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://medium.com/@Anish-Kushwaha" target="blank">
     <img src="https://img.shields.io/badge/Medium-@Anish--Kushwaha-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
